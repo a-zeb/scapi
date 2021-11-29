@@ -1,0 +1,11 @@
+com\scapi\shape\Rectangle.class
+com\scapi\ShapeCalculatorApplication.class
+com\scapi\service\ShapeService.class
+com\scapi\repository\ShapeRepository.class
+com\scapi\shape\Circle.class
+com\scapi\shape\Square.class
+exceptions\ErrorResponse.class
+com\scapi\shape\Shape.class
+com\scapi\config\ShapeConfig.class
+com\scapi\controller\ShapeController.class
+exceptions\RecordNotFoundException.class
